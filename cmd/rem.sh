@@ -1,5 +1,5 @@
 
-url=git@github.com:lefkada3/lefkada3.github.io.git
+url=git@github.com:lefkada3/lefkada
 
 git remote set-url origin $url 
 
